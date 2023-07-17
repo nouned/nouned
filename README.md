@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A data-driven, user-centred product maker from Melbourne, Australia 🐨</h3>
+<h1 align="left">Hi 👋, I'm Mike</h1>
+<h3 align="left">A data-driven, user-centred product maker from Melbourne, Australia 🐨</h3>
 
 - 🔭 I’m currently working on [EducatorData.com](https://EducatorData.com)
 
