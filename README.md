@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EducatorData.com](https://EducatorData.com)
 
-- 💬 Ask me about **data analysis**, & **management consulting**
+- 💬 Ask me about **data analysis**, **product development**, & **management consulting**
 
 - 👯 I’m looking to collaborate on building products that make people smarter, & more effective.
 
